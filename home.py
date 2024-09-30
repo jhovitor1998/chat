@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-url = f'http://10.6.46.204:5001/ask'
+url = f'https://2c2e4987-65e5-4f54-8bb6-32d3e35155db-00-3c4qoh6nbxbo4.riker.replit.dev/ask'
 
 def main():
     st.set_page_config(page_title="Chat Goiás Social", page_icon="chat.png")
